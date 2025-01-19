@@ -1,0 +1,9 @@
+x=2
+y=7
+print(x+y)
+a="jitesh"
+b="maurya"
+print(a+b)
+print(a+str(x))
+z="9"
+print(int(z)+y+x)
